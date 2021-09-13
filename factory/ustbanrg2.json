@@ -1,0 +1,9 @@
+{
+	"name": "ustbanrg2",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f065980c-02ee-4e5d-b43c-d1dabccf65ab",
+		"tenantId": "a4431f4b-c207-4733-9530-34c08a9b2b8d"
+	}
+}
